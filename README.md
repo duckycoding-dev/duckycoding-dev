@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @duckycoding-dev! I'm a junior fullstack web developer with a passion for frontend development, eager to learn a lot of different stuff related to the entire web stack
-- 👀 I’m interested in learning different frameworks and technologies to boost my knowledge and skills
-- 🌱 I’m currently learning ~~Next.js~~ ~~Astro~~ the Tanstack stack, Shadcn, DaisyUI and other web dev concepts.
-- 📕 I've published my own blog where I post brief articles about web development, check it out: [duckycoding.dev](https://duckycoding.dev)
-- 🦆 I like ducks, quack
+# Hi, I'm Davide 👋
+
+I'm a Frontend Engineer focused on React and TypeScript, with full-stack experience building Node.js services and REST APIs.
+
+I work on B2B applications, IoT-related products and corporate websites, contributing across the development lifecycle: requirements analysis, reusable frontend components, API integration, backend business logic, code reviews and technical documentation.
+
+My main interests are frontend architecture, maintainable component systems, type-safe application boundaries and developer experience.
 
 <!---
 duckycoding-dev/duckycoding-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
